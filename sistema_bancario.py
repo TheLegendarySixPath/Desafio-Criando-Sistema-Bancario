@@ -1,14 +1,6 @@
 """
 Objetivo: criar um sistema bancário com operações de sacar, depositar, e visualizar extrato
 
-Operação de depósito
-Todos os depósitos devem ser armazenadas em uma variável e exibir na tela a operação de extrato e todos depósitos devem ser positivos.
-
-O sistema só pode permitir 3 saques diários com limite de R$500 em cada saque. Caso o usuário não estiver o saldo em conta o sistema deve exibir
-uma mensagem que não é possível sacar o dinheiro por falta de saldo. Todos saques devem ser armazenados em uma variável e e exibidos na operação
- de extrato
-
-Operação de extrato deve mostrar todos depósitos e saques realizados na conta e deve exibir o saldo atual da conta
 """
 linha = "==================================="
 
